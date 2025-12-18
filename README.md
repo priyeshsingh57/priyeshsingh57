@@ -1,6 +1,6 @@
 ## Hi, I'm Priyesh 👋
 
-I’m an analytics professional working at the intersection of **fraud/risk**, **fintech**, and **data-driven strategy**. I enjoy turning messy data into clear decisions—whether that’s forecasting risk, designing decision rules, or building dashboards that make performance obvious. :contentReference[oaicite:0]{index=0}
+I’m an analytics professional working at the intersection of **fraud/risk**, **fintech**, and **data-driven strategy**. I enjoy turning messy data into clear decisions—whether that’s forecasting risk, designing decision rules, or building dashboards that make performance obvious.
 
 ### What I work on
 - Fraud & risk analytics (identity theft / portfolio loss thinking)
